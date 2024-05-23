@@ -34,9 +34,6 @@ Give time.sleep() for a break.
 ## Step5:
 Give ep_chassis.drive_speed to have a circular movement.
 
-
-<br/>
-
 ## Program:
 ```
 from robomaster import robot
